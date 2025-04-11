@@ -1,3 +1,5 @@
+# Exploratory Data Analysis of Video-Game Sales
+
 This repository contains Python code and analysis conducted on video game sales data to uncover insights about the gaming industry’s top-performing titles, platforms, and regional trends.
 
 ## Project Objectives
