@@ -41,7 +41,7 @@ This repository contains Python code and a comprehensive exploratory data analys
 
 ## Dataset
 
-**File:** `Pythonproject.xlsx`
+**File:** `Video-game Sales.xlsx`
 
 The dataset contains aggregated sales and metadata for a broad range of video games. Each entry includes:
 
@@ -74,5 +74,5 @@ The dataset contains aggregated sales and metadata for a broad range of video ga
 
 ```plaintext
 ├── videogamesales.ipynb         # Jupyter notebook containing full EDA and visualizations
-├── Pythonproject.xlsx       # Main dataset used for the analysis
+├── Video-game Sales.xlsx       # Main dataset used for the analysis
 └── README.md                # Project documentation
